@@ -1,10 +1,9 @@
 {
-    "name": "codingmatters/site-module-ini",
-    "description": "Initial Site Module for ZF application",
+    "name": "iaccess/official-website",
+    "description": "Official Website of Iligan Access Institute of Technology, Inc.",
     "license": "MIT",
     "type": "zend-module",
-    "keywords": ["ZF module"],
-    "homepage": "https://github.com/CodingMatters/SiteModule/",
+    "homepage": "https://www.iaccess.edu.ph",
     "authors": [
         {
             "name": "Gab Amba",
@@ -13,7 +12,7 @@
         }
     ],
     "require": {
-        "php": "^5.6 || ^7.0",       
+        "php": "^7.0",       
         "roave/security-advisories": "dev-master",
         "composer/installers": "~1.0",
         "zendframework/zend-mvc-i18n": "^1.0",
