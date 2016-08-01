@@ -20,9 +20,10 @@
         "zendframework/zend-navigation": "^2.8.1"
     },
     "require-dev": {        
-        "zendframework/zend-test": "^3.0",
-        "squizlabs/php_codesniffer": "^2.3",
-        "phpbench/phpbench": "^0.11"
+        "zendframework/zend-test": "^3.0.1",
+        "squizlabs/php_codesniffer": "^2.6.2",
+        "phpbench/phpbench": "^0.11.2",
+        "sebastian/phpcpd": "^2.0.4"
     },
     "autoload": {        
         "psr-4": {
